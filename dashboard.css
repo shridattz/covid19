@@ -1,0 +1,17 @@
+.user-name{
+    font-weight: bold;
+    margin-top: 25%;
+}
+
+.content-div{
+    margin-top: 5%;
+    border: 5px;
+    border-radius: 25px;
+    border-color: black;
+}
+
+.map-div, .table-div{
+    border-color: black;
+    border: 5px;
+    border-radius: 25px;
+}
