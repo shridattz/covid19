@@ -1,0 +1,8 @@
+{
+    "name": "bvoc/covid19",
+    "description": "A covid19 dashboard using open apis",
+    "type": "project",
+    "require": {
+        "ellislab/codeigniter": "3"
+    }
+}
